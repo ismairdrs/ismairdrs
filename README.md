@@ -1,4 +1,14 @@
-### Hi there 👋
+
+<br>
+<br>
+<center>
+<table>
+  <tr>
+    <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=ismairdrs&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
+      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismairdrs&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
+  </tr>   
+</table>
+</center>
 
 <!--
 **ismairdrs/ismairdrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
